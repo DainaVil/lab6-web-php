@@ -38,7 +38,7 @@
 
 ## Примечание
 
-Запускала PHP на MacOS через XAMPP, использовала вместо PostgresSQL встроенную в XAMPP MyQSL.  
+Запускала PHP на MacOS через Apache Web Server (XAMPP), использовала вместо PostgresSQL встроенную в XAMPP MyQSL.  
 *Основной файл - index.html*  
 В задании 3 чтобы вывести все поля, необходимо без задания условий нажать "Поиск".
 
