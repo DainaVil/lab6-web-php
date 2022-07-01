@@ -1,0 +1,26 @@
+body{
+    padding: 20px;
+    text-align: center;
+    background-color:blanchedalmond;
+    align-items: center;
+    margin: auto;
+}
+
+h2 {
+    color:brown;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+}
+
+p#back {
+    text-align: left;
+}
+
+p#last {
+    margin-bottom: 40px;
+}
+
